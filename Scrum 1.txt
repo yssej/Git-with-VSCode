@@ -1,0 +1,12 @@
+Le product owner définit le périmètre du projet et compile les fonctionnalités voulues par les utilisateurs sous formes de user stories
+
+le product backlog regroupe les éléments à développer pour réaliser la user story. (évolutif)
+
+la réalisation des éléments du product backlog s'effectue dans des sprint
+
+Déroulement d'un sprint:
+  -> sprint planning meeting (on prends les élément prioritaires du backlog 
+  -> daily scrum
+  -> sprint meeting review (livraison au product owner qui va tester la qualité et donner des retour à l'equipe après)
+
+En fonction des retour utilisateur, que l'on va alimenter le product backlog et améliorer le produit

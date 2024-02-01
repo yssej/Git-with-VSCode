@@ -1,0 +1,18 @@
+Projet
+ -> asiana tableau de bord
+Sprint
+ ->
+Backlog
+ -> abréviation
+ -> misy etat hoe validé
+ -> asiana poids (genre hoe ela ve ny mi-réaliser an'io backlog io de samy mi-estimer an'io ny PO/SM/dev)
+   -> atao ny moyenne an'ireo de ze valiny eo no final
+ -> backlog 1 afaka atao anaty sprint maro
+ -> asiana historique
+ -> manome durée auto hoanle backlog selon ny poids-any
+ -> raha misy fonctionnalite annulé anatinle backlog de efa considéré terminé ny backlog raha terminé daholo ny backklog hafa
+ -> priorité
+Fonctionnalite
+ -> 
+Utilisateur
+ -> mi-listé ny asa ni-assigné-na tamle user

@@ -1,0 +1,11 @@
+product owner 
+ -> chef de produit qui représente le client
+ -> définit les spécificités fonctionnelles et établit les listes de priorité
+ -> valide les fonctionnalités
+
+scrum master 
+ -> garant du processus 
+ -> assure la communication entre les equipes
+
+user story 
+ -> 
