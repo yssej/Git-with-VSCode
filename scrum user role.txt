@@ -5,7 +5,7 @@ product owner
 
 scrum master 
  -> garant du processus 
- -> assure la communication entre les equipes
+ -> assure4 la communication entre les equipes
 
 user story 
  -> test4
